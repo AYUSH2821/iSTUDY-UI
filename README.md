@@ -1,4 +1,7 @@
 # iSTUDY-UI
+UI design for the iSTUDY app
+
+
 ![1](https://user-images.githubusercontent.com/48079581/101237456-df3f6900-36fe-11eb-862c-de805ef318c8.PNG)
 
 ![2](https://user-images.githubusercontent.com/48079581/101237464-faaa7400-36fe-11eb-9b04-d59f397ec68e.PNG)
